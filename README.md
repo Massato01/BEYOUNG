@@ -1,4 +1,4 @@
-# Planning and priority work fronts in the fourth qarter of Beyoung sales of 2021, base on the second and third quarters.
+# Planning and priority work fronts in the fourth qarter of Beyoung sales of 2021, based on the second and third quarters.
 
 ## Comparing the second and third quarter of 2021 considering:
 > * Occurrence Volume;
